@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**gustavohenriquetkng/gustavohenriquetkng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img 
+    src="https://github.com/gustavohenriquetkng/gustavohenriquetkng/blob/main/Banner_Gustavo_Henrique_v2.png" 
+    alt="Banner" 
+    width="100%"
+    height="100%"
+    > 
+</p>
 
-Here are some ideas to get you started:
+<h2 align="center"><b>MINHAS HABILIDADES</b></h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center" style="margin-top: 20px;">
+
+  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="margin: 0 15px;" />
+
+  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="margin: 0 15px;" />
+
+  <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin: 0 15px;" />
+
+</div>
+
