@@ -57,14 +57,6 @@
 <br>
 <br>
 
-<div align="center">
-<a href="https://github.com/gustavohenriquetkng/github-readme-stats">
-  <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=gustavohenriquetkng&theme=transparent" />
-</a>
-<a href="https://github.com/gustavohenriquetkng/convoychat">
-  <img height="170em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavohenriquetkng&theme=transparent&layout=compact&langs_count=8&card_width=320" />
-</a>
-</div>
 
 
 
