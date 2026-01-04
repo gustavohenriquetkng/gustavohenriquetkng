@@ -55,7 +55,7 @@
 
 <a href="https://gustavohenriquetkng.github.io/mercadolvr/" target="_blank">
   <img 
-    src="https://images.unsplash.com/photo-1607082349566-1870c7a8a7d6?auto=format&fit=crop&w=500&q=60"
+    src="[https://images.unsplash.com/photo-1607082349566-1870c7a8a7d6?auto=format&fit=crop&w=500&q=60](https://images.unsplash.com/photo-1519581706005-e1b7e2de264c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fG1lcmNhZG98ZW58MHx8MHx8fDA%3D)"
     width="100"
     alt="Imagem do projeto Mercado"
   />
