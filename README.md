@@ -38,7 +38,7 @@
   <h2 align="center"><b>VISITE MEU PORTIFÓLIO</b></b></h2>
  <div align="center">
 
-<a href="">
+<a href="https://gustavohenriquetkng.github.io/Portif-lio/">
   <img src="https://github.com/gustavohenriquetkng/gustavohenriquetkng/blob/main//TVN_Graffiti_Logrei.png" width="100" />
 </a>
 &nbsp;&nbsp;&nbsp;
