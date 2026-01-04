@@ -53,7 +53,7 @@
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://gustavohenriquetkng.github.io/mercadolvr/" target="_blank">
-  <img  src="" width="100" />
+  <img  src="https://unsplash.com/pt-br/fotografias/sinal-vermelho-do-mercado-iIWCjgK3704" width="100" />
 </a>
 &nbsp;&nbsp;&nbsp;
 
