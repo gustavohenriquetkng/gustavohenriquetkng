@@ -38,8 +38,8 @@
   <h2 align="center"><b>VISITE MEU PORTIFÓLIO</b></b></h2>
  <div align="center">
 
-<a href="https://gustavohenriquetkng.github.io/Cafeteria/" target="_blank">
-  <img src="https://images.unsplash.com/photo-1497515114629-f71d768fd07c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fGNhZmV8ZW58MHx8MHx8fDA%3D" width="100" />
+<a href="">
+  <img src="https://github.com/gustavohenriquetkng/gustavohenriquetkng/blob/main//TVN_Graffiti_Logrei.png" width="100" />
 </a>
 &nbsp;&nbsp;&nbsp;
 
