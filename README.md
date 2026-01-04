@@ -42,6 +42,7 @@
   <img src="https://images.unsplash.com/photo-1497515114629-f71d768fd07c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fGNhZmV8ZW58MHx8MHx8fDA%3D" width="100" />
 </a>
 &nbsp;&nbsp;&nbsp;
+
 <a href="https://gustavohenriquetkng.github.io/TelaLogin/" target="_blank">
   <img  src="https://plus.unsplash.com/premium_photo-1720192861639-1524439fc166?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TE9HSU58ZW58MHx8MHx8fDA%3D" width="100" />
 </a>
@@ -53,9 +54,12 @@
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://gustavohenriquetkng.github.io/mercadolvr/" target="_blank">
-  <img  src="https://unsplash.com/pt-br/fotografias/sinal-vermelho-do-mercado-iIWCjgK3704=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGFwcGxlfGVufDB8fDB8fHww" width="100" />
+  <img 
+    src="https://images.unsplash.com/photo-1607082349566-1870c7a8a7d6?auto=format&fit=crop&w=500&q=60"
+    width="100"
+    alt="Imagem do projeto Mercado"
+  />
 </a>
-&nbsp;&nbsp;&nbsp;
 
 
 
