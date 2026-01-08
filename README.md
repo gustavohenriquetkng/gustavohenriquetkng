@@ -44,6 +44,40 @@
 &nbsp;&nbsp;&nbsp;
 
 
+<h2 align="center"><b>PROJETOS AVULSOS</b></b></h2>
+
+
+
+<a href="https://gustavohenriquetkng.github.io/mercadolvr/">
+  <img src="https://media.istockphoto.com/id/2220294722/pt/foto/digital-shopping-cart-icon-web-technology-e-commerce-and-online-internet-shopping.webp?a=1&b=1&s=612x612&w=0&k=20&c=Mk2qDNGlvXFfcvMXFh_zmH4SSgNpfFbhnFUKx6ZDv5s=" width="100" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+
+
+<a href="https://gustavohenriquetkng.github.io/Apple/">
+  <img src="https://images.unsplash.com/photo-1640536181543-ae87a107ce1a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8QXBsZXxlbnwwfHwwfHx8MA%3D%3D" width="100" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+
+
+<a href="https://gustavohenriquetkng.github.io/TelaLogin/">
+  <img src="https://images.unsplash.com/photo-1509822929063-6b6cfc9b42f2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bG9naW58ZW58MHx8MHx8fDA%3D" width="100" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+
+
+<a href="https://gustavohenriquetkng.github.io/Cafeteria/">
+  <img src="https://images.unsplash.com/photo-1447933601403-0c6688de566e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2FmZXxlbnwwfHwwfHx8MA%3D%3D" width="100" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+
+
+
+
 
 
 </div>
