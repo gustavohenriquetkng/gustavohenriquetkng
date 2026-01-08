@@ -55,27 +55,27 @@
 
 
 
-<a href="https://gustavohenriquetkng.github.io/Apple/"><h3><b>Apple Store</b></h3>
+<a href="https://gustavohenriquetkng.github.io/Apple/">
   <img src="https://images.unsplash.com/photo-1640536181543-ae87a107ce1a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8QXBsZXxlbnwwfHwwfHx8MA%3D%3D" width="100" />
 </a>
 &nbsp;&nbsp;&nbsp;
 
 
 
-<a href="https://gustavohenriquetkng.github.io/TelaLogin/"><h3>Tela Login</h3>
+<a href="https://gustavohenriquetkng.github.io/TelaLogin/">
   <img src="https://images.unsplash.com/photo-1509822929063-6b6cfc9b42f2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bG9naW58ZW58MHx8MHx8fDA%3D" width="100" />
 </a>
 &nbsp;&nbsp;&nbsp;
 
 
 
-<a href="https://gustavohenriquetkng.github.io/Cafeteria/"><h3><b>Cafeteria</b></h3>
+<a href="https://gustavohenriquetkng.github.io/Cafeteria/">
   <img src="https://images.unsplash.com/photo-1447933601403-0c6688de566e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2FmZXxlbnwwfHwwfHx8MA%3D%3D" width="100" />
 </a>
 &nbsp;&nbsp;&nbsp;
 
 
-<a href="https://gustavohenriquetkng.github.io/spotfy/"><h3><b>Spotfy</b></h3>
+<a href="https://gustavohenriquetkng.github.io/spotfy/">
   <img src="https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bXVzaWN8ZW58MHx8MHx8fDA%3D" width="100" />
 </a>
 &nbsp;&nbsp;&nbsp;
