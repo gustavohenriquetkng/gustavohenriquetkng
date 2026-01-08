@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/GabrielCM12">
+  <a href="https://github.com/">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=👋+Olá,+sou+Gustavo+Henrique+Rodrigues!;🎓+Estudante+de+Técnico+de+Informática;💻+Em+busca+do+Aprimoramento;🚀+Sempre+Evoluindo!" alt="Typing SVG" />
   </a>
 </p>
