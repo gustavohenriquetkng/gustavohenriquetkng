@@ -75,7 +75,7 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<a href="https://gustavohenriquetkng.github.io/spotfy/"><h3 align="center"><b>Spotfy</b></h3>
+<a href="https://gustavohenriquetkng.github.io/spotfy/"><h3><b>Spotfy</b></h3>
   <img src="https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bXVzaWN8ZW58MHx8MHx8fDA%3D" width="100" />
 </a>
 &nbsp;&nbsp;&nbsp;
