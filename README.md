@@ -45,6 +45,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gustavohenriquetkng&show_icons=true&theme=tokyonight&cache_bust=1" alt="Estatísticas do GitHub" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenriquetkng&layout=compact&langs_count=8&theme=tokyonight&cache_bust=1" alt="Linguagens Mais Usadas" />
 </p>
 <p align="center">
