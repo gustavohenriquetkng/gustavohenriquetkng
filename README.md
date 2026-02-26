@@ -1,14 +1,11 @@
-
 <p align="center">
   <img 
     src="https://github.com/gustavohenriquetkng/gustavohenriquetkng/blob/main/Banner_Gustavo_Henrique_v2.png" 
-    alt="Banner" 
+    alt="Banner Gustavo Henrique" 
     width="100%"
     height="100%"
-    > 
+  /> 
 </p>
-
-
 
 <p align="center">
   <a href="https://github.com/gustavohenriquetkng">
@@ -16,110 +13,137 @@
   </a>
 </p>
 
+  
 
 
+---
 
+<h2 align="center">📌 Sobre Mim</h2>
 
-<h2 align="center"><b>MINHAS HABILIDADES</b></h2>
-
-<div align="center" style="margin-top: 20px;">
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+<p align="center">
+  Sou um desenvolvedor júnior e estudante de Técnico de Informática, apaixonado por criar soluções web e em constante aprendizado. Meu foco é aprimorar minhas habilidades em desenvolvimento back-end e front-end, sempre buscando novos desafios e projetos para evoluir profissionalmente.
+</p>
 
   
 
-</div>
-<br>
-<br>
+
+<h2 align="center">🛠️ Minhas Habilidades</h2>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+</p>
+
+  
 
 
-  <h2 align="center"><b>VISITE MEU PORTIFÓLIO</b></b></h2>
- <div align="center">
+---
 
-<a href="https://gustavohenriquetkng.github.io/portif-lio2.0/">
-  <img src="https://github.com/gustavohenriquetkng/gustavohenriquetkng/blob/main//TVN_Graffiti_Logrei.png" width="100" />
-</a>
-&nbsp;&nbsp;&nbsp;
+<h2 align="center">📊 Estatísticas & Tecnologias</h2>
 
+<p align="center">
+  <a href="https://github.com/gustavohenriquetkng">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavohenriquetkng&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+  </a>
+  <a href="https://github.com/gustavohenriquetkng">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenriquetkng&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens Mais Usadas" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/gustavohenriquetkng">
+    <img align="center" src="https://streak-stats.demolab.com?user=gustavohenriquetkng&theme=tokyonight" alt="Estatísticas de Streak" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/gustavohenriquetkng">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavohenriquetkng&theme=tokyo-night" alt="Gráfico de Atividades" />
+  </a>
+</p>
 
-<h2 align="center"><b>PROJETOS AVULSOS</b></b></h2>
-
-
-
-<a href="https://gustavohenriquetkng.github.io/mercadolvr/">
-  <img src="https://media.istockphoto.com/id/2220294722/pt/foto/digital-shopping-cart-icon-web-technology-e-commerce-and-online-internet-shopping.webp?a=1&b=1&s=612x612&w=0&k=20&c=Mk2qDNGlvXFfcvMXFh_zmH4SSgNpfFbhnFUKx6ZDv5s=" width="100" />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-
-
-<a href="https://gustavohenriquetkng.github.io/Apple/">
-  <img src="https://images.unsplash.com/photo-1640536181543-ae87a107ce1a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8QXBsZXxlbnwwfHwwfHx8MA%3D%3D" width="100" />
-</a>
-&nbsp;&nbsp;&nbsp;
-
-
-
-<a href="https://gustavohenriquetkng.github.io/TelaLogin/">
-  <img src="https://images.unsplash.com/photo-1509822929063-6b6cfc9b42f2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bG9naW58ZW58MHx8MHx8fDA%3D" width="100" />
-</a>
-&nbsp;&nbsp;&nbsp;
+  
 
 
+---
 
-<a href="https://gustavohenriquetkng.github.io/Cafeteria/">
-  <img src="https://images.unsplash.com/photo-1447933601403-0c6688de566e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2FmZXxlbnwwfHwwfHx8MA%3D%3D" width="100" />
-</a>
-&nbsp;&nbsp;&nbsp;
+<h2 align="center">💼 Portfólio & Projetos</h2>
 
+<p align="center">
+  Confira meu portfólio completo e alguns dos meus projetos.
+</p>
 
-<a href="https://gustavohenriquetkng.github.io/spotfy/">
-  <img src="https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bXVzaWN8ZW58MHx8MHx8fDA%3D" width="100" />
-</a>
-&nbsp;&nbsp;&nbsp;
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <a href="https://gustavohenriquetkng.github.io/portif-lio2.0/">
+        <img src="https://github.com/gustavohenriquetkng/gustavohenriquetkng/blob/main/TVN_Graffiti_Logrei.png" width="100" alt="Ícone do Portfólio"/>
+          
 
+        <strong>Meu Portfólio</strong>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://gustavohenriquetkng.github.io/mercadolvr/">
+        <img src="https://media.istockphoto.com/id/2220294722/pt/foto/digital-shopping-cart-icon-web-technology-e-commerce-and-online-internet-shopping.webp?a=1&b=1&s=612x612&w=0&k=20&c=Mk2qDNGlvXFfcvMXFh_zmH4SSgNpfFbhnFUKx6ZDv5s=" width="100" alt="Ícone do MercadoLVR"/>
+          
 
-<a href="https://gustavohenriquetkng.github.io/delivery/">
-  <img src="https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGFtYnVyZ3VlcnxlbnwwfHwwfHx8MA%3D%3D" width="100" />
-</a>
-&nbsp;&nbsp;&nbsp;
+        <strong>MercadoLVR</strong>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://gustavohenriquetkng.github.io/Apple/">
+        <img src="https://images.unsplash.com/photo-1640536181543-ae87a107ce1a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8QXBsZXxlbnwwfHwwfHx8MA%3D%3D" width="100" alt="Ícone do projeto Apple"/>
+          
 
+        <strong>Clone Apple</strong>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://gustavohenriquetkng.github.io/TelaLogin/">
+        <img src="https://images.unsplash.com/photo-1509822929063-6b6cfc9b42f2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bG9naW58ZW58MHx8MHx8fDA%3D" width="100" alt="Ícone da Tela de Login"/>
+          
 
-# 📊 Linguagens mais utilizadas
+        <strong>Tela de Login</strong>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://gustavohenriquetkng.github.io/Cafeteria/">
+        <img src="https://images.unsplash.com/photo-1447933601403-0c6688de566e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2FmZXxlbnwwfHwwfHx8MA%3D%3D" width="100" alt="Ícone do projeto Cafeteria"/>
+          
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenriquetkng&layout=compact&theme=tokyonight)
+        <strong>Cafeteria</strong>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://gustavohenriquetkng.github.io/spotfy/">
+        <img src="https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bXVzaWN8ZW58MHx8MHx8fDA%3D" width="100" alt="Ícone do projeto Spotify"/>
+          
 
+        <strong>Clone Spotify</strong>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://gustavohenriquetkng.github.io/delivery/">
+        <img src="https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGFtYnVyZ3VlcnxlbnwwfHwwfHx8MA%3D%3D" width="100" alt="Ícone do projeto Delivery"/>
+          
 
+        <strong>App Delivery</strong>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <!-- Espaço reservado para futuro projeto -->
+    </td>
+    <td align="center" width="200">
+      <!-- Espaço reservado para futuro projeto -->
+    </td>
+  </tr>
+</table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenriquetkng)
-
-
-
-
-
-
-
-
-</div>
-
-<br>
-<br>
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
+  
 
