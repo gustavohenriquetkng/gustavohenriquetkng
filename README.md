@@ -73,24 +73,37 @@
   Confira meu portfólio completo e alguns dos meus projetos.
 </p>
 
-| Portfólio | MercadoLVR | Clone Apple |
-| :---: | :---: | :---: |
-| <a href="https://gustavohenriquetkng.github.io/portif-lio2.0/"><img src="https://github.com/gustavohenriquetkng/gustavohenriquetkng/blob/main/TVN_Graffiti_Logrei.png" width="100" alt="Ícone do Portfólio"/>  
-<sub><b>Meu Portfólio</b></sub></a> | <a href="https://gustavohenriquetkng.github.io/mercadolvr/"><img src="https://media.istockphoto.com/id/2220294722/pt/foto/digital-shopping-cart-icon-web-technology-e-commerce-and-online-internet-shopping.webp?a=1&b=1&s=612x612&w=0&k=20&c=Mk2qDNGlvXFfcvMXFh_zmH4SSgNpfFbhnFUKx6ZDv5s=" width="100" alt="Ícone do MercadoLVR"/>  
-<sub><b>MercadoLVR</b></sub></a> | <a href="https://gustavohenriquetkng.github.io/Apple/"><img src="https://images.unsplash.com/photo-1640536181543-ae87a107ce1a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8QXBsZXxlbnwwfHwwfHx8MA%3D%3D" width="100" alt="Ícone do projeto Apple"/>  
-<sub><b>Clone Apple</b></sub></a> |
-
-| Tela de Login | Cafeteria | Clone Spotify |
-| :---: | :---: | :---: |
-| <a href="https://gustavohenriquetkng.github.io/TelaLogin/"><img src="https://images.unsplash.com/photo-1509822929063-6b6cfc9b42f2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bG9naW58ZW58MHx8MHx8fDA%3D" width="100" alt="Ícone da Tela de Login"/>  
-<sub><b>Tela de Login</b></sub></a> | <a href="https://gustavohenriquetkng.github.io/Cafeteria/"><img src="https://images.unsplash.com/photo-1447933601403-0c6688de566e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2FmZXxlbnwwfHwwfHx8MA%3D%3D" width="100" alt="Ícone do projeto Cafeteria"/>  
-<sub><b>Cafeteria</b></sub></a> | <a href="https://gustavohenriquetkng.github.io/spotfy/"><img src="https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bXVzaWN8ZW58MHx8MHx8fDA%3D" width="100" alt="Ícone do projeto Spotify"/>  
-<sub><b>Clone Spotify</b></sub></a> |
-
-| App Delivery | | |
-| :---: | :---: | :---: |
-| <a href="https://gustavohenriquetkng.github.io/delivery/"><img src="https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGFtYnVyZ3VlcnxlbnwwfHwwfHx8MA%3D%3D" width="100" alt="Ícone do projeto Delivery"/>  
-<sub><b>App Delivery</b></sub></a> | | |
+<p align="center">
+  <a href="https://gustavohenriquetkng.github.io/portif-lio2.0/">
+    <img src="https://github.com/gustavohenriquetkng/gustavohenriquetkng/blob/main/TVN_Graffiti_Logrei.png" width="120" alt="Ícone do Portfólio"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://gustavohenriquetkng.github.io/mercadolvr/">
+    <img src="https://media.istockphoto.com/id/2220294722/pt/foto/digital-shopping-cart-icon-web-technology-e-commerce-and-online-internet-shopping.webp?a=1&b=1&s=612x612&w=0&k=20&c=Mk2qDNGlvXFfcvMXFh_zmH4SSgNpfFbhnFUKx6ZDv5s=" width="120" alt="Ícone do MercadoLVR"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://gustavohenriquetkng.github.io/Apple/">
+    <img src="https://images.unsplash.com/photo-1640536181543-ae87a107ce1a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8QXBsZXxlbnwwfHwwfHx8MA%3D%3D" width="120" alt="Ícone do projeto Apple"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://gustavohenriquetkng.github.io/TelaLogin/">
+    <img src="https://images.unsplash.com/photo-1509822929063-6b6cfc9b42f2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bG9naW58ZW58MHx8MHx8fDA%3D" width="120" alt="Ícone da Tela de Login"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://gustavohenriquetkng.github.io/Cafeteria/">
+    <img src="https://images.unsplash.com/photo-1447933601403-0c6688de566e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2FmZXxlbnwwfHwwfHx8MA%3D%3D" width="120" alt="Ícone do projeto Cafeteria"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://gustavohenriquetkng.github.io/spotfy/">
+    <img src="https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bXVzaWN8ZW58MHx8MHx8fDA%3D" width="120" alt="Ícone do projeto Spotify"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://gustavohenriquetkng.github.io/delivery/">
+    <img src="https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGFtYnVyZ3VlcnxlbnwwfHwwfHx8MA%3D%3D" width="120" alt="Ícone do projeto Delivery"/>
+  </a>
+</p>
 
   
 
