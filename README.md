@@ -40,7 +40,7 @@
 
 
 ---
-
+ 
 <h2 align="center">📊 Estatísticas & Tecnologias</h2>
 
 <p align="center">
