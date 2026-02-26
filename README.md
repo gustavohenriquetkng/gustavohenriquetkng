@@ -46,20 +46,20 @@
 
 <p align="center">
   <a href="https://github.com/gustavohenriquetkng">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavohenriquetkng&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavohenriquetkng&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" &cache_bust=1/>
   </a>
   <a href="https://github.com/gustavohenriquetkng">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenriquetkng&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens Mais Usadas" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/gustavohenriquetkng">
-    <img align="center" src="https://streak-stats.demolab.com?user=gustavohenriquetkng&theme=tokyonight" alt="Estatísticas de Streak" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenriquetkng&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens Mais Usadas"&cache_bust=1 />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/gustavohenriquetkng">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavohenriquetkng&theme=tokyo-night" alt="Gráfico de Atividades" />
+    <img align="center" src="https://streak-stats.demolab.com?user=gustavohenriquetkng&theme=tokyonight" alt="Estatísticas de Streak"&cache_bust=1 />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/gustavohenriquetkng">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavohenriquetkng&theme=tokyo-night" alt="Gráfico de Atividades"&cache_bust=1 />
   </a>
 </p>
 
