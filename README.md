@@ -35,14 +35,14 @@
 <h2 align="center">📊 Estatísticas & Tecnologias</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenriquetkng&layout=compact&langs_count=8&theme=tokyonight&cache_bust=1" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenriquetkng&layout=compact&langs_count=8&theme=tokyonight&count_private=true" alt="Linguagens Mais Usadas" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gustavohenriquetkng&theme=tokyonight&cache_bust=1" alt="Estatísticas de Streak" />
+  <img src="https://streak-stats.demolab.com?user=gustavohenriquetkng&theme=tokyonight" alt="Estatísticas de Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavohenriquetkng&theme=tokyo-night&cache_bust=1" alt="Gráfico de Atividades" />
-</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavohenriquetkng&theme=tokyo-night" alt="Gráfico de Atividades" />
+p>
 
 ---
 
@@ -67,32 +67,32 @@
 </p>
 <p align="center">
   <a href="https://gustavohenriquetkng.github.io/TelaLogin/">
-    <img src="https://images.unsplash.com/photo-1509822929063-6b6cfc9b42f2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bG9naW58ZW58MHx8MHx8fDA%3D" width="120" alt="Ícone da Tela de Login"/>
+    <img src="https://images.unsplash.com/photo-1509822929063-6b6cfc9b42f2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&id=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bG9naW58ZW58MHx8MHx8fDA%3D" width="120" alt="Ícone da Tela de Login"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://gustavohenriquetkng.github.io/Cafeteria/">
-    <img src="https://images.unsplash.com/photo-1447933601403-0c6688de566e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2FmZXxlbnwwfHwwfHx8MA%3D%3D" width="120" alt="Ícone do projeto Cafeteria"/>
+    <img src="https://images.unsplash.com/photo-1447933601403-0c6688de566e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&id=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2FmZXxlbnwwfHwwfHx8MA%3D%3D" width="120" alt="Ícone do projeto Cafeteria"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://gustavohenriquetkng.github.io/spotfy/">
-    <img src="https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bXVzaWN8ZW58MHx8MHx8fDA%3D" width="120" alt="Ícone do projeto Spotify"/>
+    <img src="https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&id=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bXVzaWN8ZW58MHx8MHx8fDA%3D" width="120" alt="Ícone do projeto Spotify"/>
   </a>
 </p>
 <p align="center">
   <a href="https://gustavohenriquetkng.github.io/delivery/">
-    <img src="https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGFtYnVyZ3VlcnxlbnwwfHwwfHx8MA%3D%3D" width="120" alt="Ícone do projeto Delivery"/>
+    <img src="https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&id=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGFtYnVyZ3VlcnxlbnwwfHwwfHx8MA%3D%3D" width="120" alt="Ícone do projeto Delivery"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://gustavohenriquetkng.github.io/instagram/">
-    <img src="https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW5zdGFncmFtfGVufDB8fDB8fHww" width="120" alt="Clone do Instagram"/>
+    <img src="https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&id=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW5zdGFncmFtfGVufDB8fDB8fHww" width="120" alt="Clone do Instagram"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://gustavohenriquetkng.github.io/RefridoTavinKng/">
-    <img src="https://images.unsplash.com/photo-1527960471264-932f39eb5846?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c29kYXxlbnwwfHwwfHx8MA%3D%3D" width="120" alt="Loja de Refri"/>
+    <img src="https://images.unsplash.com/photo-1527960471264-932f39eb5846?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&id=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c29kYXxlbnwwfHwwfHx8MA%3D%3D" width="120" alt="Loja de Refri"/>
   </a>
 </p>
 <p align="center">
    <a href="https://gustavohenriquetkng.github.io/QuadrosdosSonosTavinKng/">
-    <img src="https://images.unsplash.com/photo-1665044063245-f7206a11b773?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHF1YWRybyUyMGRvcyUyMHNvbmhvc3xlbnwwfHwwfHx8MA%3D%3D" width="120" alt="Quadro dos sonhos"/>
+    <img src="https://images.unsplash.com/photo-1665044063245-f7206a11b773?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&id=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHF1YWRybyUyMGRvcyUyMHNvbmhvc3xlbnwwfHwwfHx8MA%3D%3D" width="120" alt="Quadro dos sonhos"/>
   </a>
 </p>
