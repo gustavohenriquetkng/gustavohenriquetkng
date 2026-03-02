@@ -97,6 +97,11 @@
   <img src="https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW5zdGFncmFtfGVufDB8fDB8fHww" width="120" alt="Clone do Instagram"/>
   </a>
 </p>
+<p align="center">
+  <a href="https://gustavohenriquetkng.github.io/RefridoTavinKng/">
+  <img src="https://images.unsplash.com/photo-1527960471264-932f39eb5846?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c29kYXxlbnwwfHwwfHx8MA%3D%3D" width="120" alt="Loja de Refri"/>
+  </a>
+</p>
    
 
   
