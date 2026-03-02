@@ -33,13 +33,6 @@
 ---
  
 <h2 align="center">📊 Estatísticas & Tecnologias</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavohenriquetkng&show_icons=true&theme=tokyonight&cache_bust=1" alt="Estatísticas do GitHub" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenriquetkng&layout=compact&langs_count=8&theme=tokyonight&cache_bust=1" alt="Linguagens Mais Usadas" />
-</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gustavohenriquetkng&theme=tokyonight&cache_bust=1" alt="Estatísticas de Streak" />
 </p>
@@ -92,5 +85,10 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://gustavohenriquetkng.github.io/RefridoTavinKng/">
     <img src="https://images.unsplash.com/photo-1527960471264-932f39eb5846?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c29kYXxlbnwwfHwwfHx8MA%3D%3D" width="120" alt="Loja de Refri"/>
+  </a>
+</p>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://gustavohenriquetkng.github.io/QuadrosdosSonosTavinKng/">
+    <img src="https://images.unsplash.com/photo-1665044063245-f7206a11b773?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHF1YWRybyUyMGRvcyUyMHNvbmhvc3xlbnwwfHwwfHx8MA%3D%3D" width="120" alt="Quadro dos sonhos"/>
   </a>
 </p>
