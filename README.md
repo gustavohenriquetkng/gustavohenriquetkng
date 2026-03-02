@@ -12,9 +12,6 @@
   </a>
 </p>
 
-  
-
-
 ---
 
 <h2 align="center">📌 Sobre Mim</h2>
@@ -22,9 +19,6 @@
 <p align="center">
   Sou um desenvolvedor júnior e estudante de Técnico de Informática, apaixonado por criar soluções web e em constante aprendizado. Meu foco é aprimorar minhas habilidades em desenvolvimento back-end e front-end, sempre buscando novos desafios e projetos para evoluir profissionalmente.
 </p>
-
-  
-
 
 <h2 align="center">🛠️ Minhas Habilidades</h2>
 
@@ -36,22 +30,22 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-  
-
-
 ---
  
 <h2 align="center">📊 Estatísticas & Tecnologias</h2>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavohenriquetkng&show_icons=true&theme=tokyonight&cache_bust=1" alt="Estatísticas do GitHub" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenriquetkng&layout=compact&langs_count=8&theme=tokyonight&cache_bust=1" alt="Linguagens Mais Usadas" />
+</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gustavohenriquetkng&theme=tokyonight&cache_bust=1" alt="Estatísticas de Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavohenriquetkng&theme=tokyo-night&cache_bust=1" alt="Gráfico de Atividades" />
 </p>
-
-  
-
 
 ---
 
@@ -91,18 +85,12 @@
   <a href="https://gustavohenriquetkng.github.io/delivery/">
     <img src="https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGFtYnVyZ3VlcnxlbnwwfHwwfHx8MA%3D%3D" width="120" alt="Ícone do projeto Delivery"/>
   </a>
-</p>
-<p align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://gustavohenriquetkng.github.io/instagram/">
-  <img src="https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW5zdGFncmFtfGVufDB8fDB8fHww" width="120" alt="Clone do Instagram"/>
+    <img src="https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW5zdGFncmFtfGVufDB8fDB8fHww" width="120" alt="Clone do Instagram"/>
   </a>
-</p>
-<p align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://gustavohenriquetkng.github.io/RefridoTavinKng/">
-  <img src="https://images.unsplash.com/photo-1527960471264-932f39eb5846?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c29kYXxlbnwwfHwwfHx8MA%3D%3D" width="120" alt="Loja de Refri"/>
+    <img src="https://images.unsplash.com/photo-1527960471264-932f39eb5846?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c29kYXxlbnwwfHwwfHx8MA%3D%3D" width="120" alt="Loja de Refri"/>
   </a>
 </p>
-   
-
-  
-
