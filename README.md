@@ -34,9 +34,7 @@
  
 <h2 align="center">📊 Estatísticas de Atividade</h2>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gustavohenriquetkng&theme=tokyonight" alt="Estatísticas de Streak" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavohenriquetkng&theme=tokyo-night" alt="Gráfico de Atividades" />
 </p>
