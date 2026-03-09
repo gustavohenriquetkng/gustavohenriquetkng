@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/gustavohenriquetkng">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=👋+Olá,+sou+Gustavo+Henrique+Rodrigues!;🎓+Estudante+de+Técnico+de+Informática;💻+Em+busca+do+Aprimoramento;🚀+Sempre+Evoluindo!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Salmos+73+Ve,23!;" alt="Typing SVG" />
   </a>
 </p>
 
